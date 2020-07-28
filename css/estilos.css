@@ -1,0 +1,114 @@
+.navbar{
+	box-shadow: 2px 2px black;
+}
+.navbar .nav-item .nav-link{
+	color: white;
+}
+#letramedio{
+	text-align: center;
+	color: #eb4d4b;
+}
+#divgracias{
+	
+}
+#secc{
+	min-height: 600px;
+	position: relative;
+	background: #95afc0;
+}
+.asidediv{
+	background: #ffbe76;
+	min-height: 700px;
+	position: relative;
+}
+#sectiondiv{
+	background:#4b6584;
+	min-height: 300px;
+	position: relative;
+}
+.asidediv1{
+	background: #ffbe76;
+	min-height: 300px;
+	position: relative;
+}
+#video{
+	text-align: center;
+	width: 500px;
+}
+#imagediv{
+	background-color: #f7b731;
+}
+#imagediv1{
+	background-color: #f7b731;
+	
+}
+#imagenp{
+	margin: auto;
+	padding: 10px;
+	height: 250px;
+	width: 220px;
+}
+#titulo{
+	text-align: center;
+}
+#blog{
+	text-align: center;
+}
+#div2{
+	background: #7d5fff;
+	min-height: 300px;
+	width: 270px;
+	margin: auto;
+}
+#div3{
+	margin: auto;
+	width: 270px;
+	background: orange;
+	min-height: 300px;
+}
+#pag2{
+	background: #ffbe76;
+	min-height: 700px;
+	position: relative;
+}
+#text1{
+	color: white;
+}
+body{
+	background-color: #130f40;
+	
+}
+.team{
+	background-color: #95afc0;
+}
+#divfooter1{
+	padding-bottom: 62px;
+}
+#divfooter{
+	padding-bottom: 45px;
+}
+footer{
+	background: #535c68;
+	position: relative;
+}
+#tablas{
+	background: #a4b0be;
+	position: relative;
+	min-height: 610px;
+}
+#tabla2{
+    background-color: #686de0;
+}
+#tabla22{
+    background-color: #4834d4;
+}
+#tabla222{
+    background-color: #be2edd;
+}
+#tablatexto{
+    color: white;
+    font-weight: bold;
+}
+#estructura{
+	text-align: center;
+}
